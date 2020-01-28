@@ -18,6 +18,8 @@ end
 def take_a_number(katz_deli, name)
   list.push(name)
   
+end
+
 
   
   
