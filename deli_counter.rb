@@ -5,4 +5,5 @@ def line(katz_deli)
     puts "The line is currently empty."
   else
     list = "the line is currently: "
+    
 
